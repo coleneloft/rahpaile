@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://doawaecai.darrinholst.com/sitemap.xml
